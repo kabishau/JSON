@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D4A376CD1FFC8946006F6740 /* JSONa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSONa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4A376CD1FFC8946006F6740 /* JSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4A376D01FFC8946006F6740 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4A376D21FFC8946006F6740 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D4A376D51FFC8947006F6740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		D4A376CE1FFC8946006F6740 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D4A376CD1FFC8946006F6740 /* JSONa.app */,
+				D4A376CD1FFC8946006F6740 /* JSON.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D4A376CC1FFC8946006F6740 /* JSONa */ = {
+		D4A376CC1FFC8946006F6740 /* JSON */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D4A376DF1FFC8947006F6740 /* Build configuration list for PBXNativeTarget "JSONa" */;
+			buildConfigurationList = D4A376DF1FFC8947006F6740 /* Build configuration list for PBXNativeTarget "JSON" */;
 			buildPhases = (
 				D4A376C91FFC8946006F6740 /* Sources */,
 				D4A376CA1FFC8946006F6740 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = JSONa;
+			name = JSON;
 			productName = JSONa;
-			productReference = D4A376CD1FFC8946006F6740 /* JSONa.app */;
+			productReference = D4A376CD1FFC8946006F6740 /* JSON.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D4A376CC1FFC8946006F6740 /* JSONa */,
+				D4A376CC1FFC8946006F6740 /* JSON */,
 			);
 		};
 /* End PBXProject section */
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D4A376DF1FFC8947006F6740 /* Build configuration list for PBXNativeTarget "JSONa" */ = {
+		D4A376DF1FFC8947006F6740 /* Build configuration list for PBXNativeTarget "JSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4A376E01FFC8947006F6740 /* Debug */,
