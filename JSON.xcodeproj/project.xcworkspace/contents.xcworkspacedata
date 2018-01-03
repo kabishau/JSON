@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:JSONa.xcodeproj">
+      location = "self:/Users/Lexa/Developer/JSONa/JSON.xcodeproj">
    </FileRef>
 </Workspace>
